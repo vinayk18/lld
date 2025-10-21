@@ -1,0 +1,5 @@
+public enum TRANSACTION_TYPE {
+    WITHDRAW,
+    CHECK_BALANCE,
+    TRANSFER;
+}
