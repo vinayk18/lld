@@ -65,7 +65,8 @@ public class ATM {
     }
 
     public CashDispenser getCashDispenser() {
-        return cashDispenser;
+        //return cashDispenser;
+        return null;
     }
 
     public TransactionType getSelectedTxn() {
